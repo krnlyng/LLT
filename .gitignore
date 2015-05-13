@@ -1,0 +1,4 @@
+*.o
+llt
+gmon.out
+
